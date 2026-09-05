@@ -1,4 +1,4 @@
-![alt text goes here](https://github.com/krishna4a6av/learn-cicd-starter.git/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+[![ci](https://github.com/krishna4a6av/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/krishna4a6av/learn-cicd-starter/actions/workflows/ci.yml)
 
 # learn-cicd-starter (Notely)
 
