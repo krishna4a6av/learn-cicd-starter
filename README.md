@@ -1,4 +1,4 @@
-![api-key Test](https://github.com/krishna4a6av/learn-cicd-starter.git/actions/workflows/ci/badge.svg)
+[![ci](https://github.com/krishna4a6av/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/krishna4a6av/learn-cicd-starter/actions/workflows/ci.yml)
 
 # learn-cicd-starter (Notely)
 
