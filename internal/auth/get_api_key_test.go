@@ -8,12 +8,11 @@ import (
 )
 
 func TestGetAPIKey(t *testing.T) {
-	type testStruct struct {
+
+	tests := []struct {
 		inp  string
 		want string
-	}
-
-	tests := []testStruct{
+	}{
 		{
 			inp:  "ApiKey my-secret-key",
 			want: "my-secret-key",
