@@ -53,7 +53,7 @@ jobs:
 name: cd
 on:
   push:
-    branches: []
+    branches: [main]
 
 jobs:
   Deploy:
